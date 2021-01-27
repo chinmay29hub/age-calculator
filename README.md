@@ -1,1 +1,3 @@
-# age-calculator
+# OUTPUT ------------->>>>
+ 
+   ![screenshot]('calculator.gif')
