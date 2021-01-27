@@ -1,3 +1,3 @@
 # OUTPUT ------------->>>>
  
-   ![screenshot]('calculator.gif')
+   [!screenshot]('calculator.gif')
