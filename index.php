@@ -7,7 +7,7 @@
 	<div align="center">
 		<h3>Enter Your Date Of Birth</h3>
 
-		<form action="calculator.php" method="post" class="drop">
+		<form action="index.php" method="post" class="drop">
 			<select name="day">
 				<option value="01">01</option>
                 <option value="02">02</option>
